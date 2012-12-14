@@ -1,0 +1,504 @@
+2012/12/05 13:19:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('gii')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/index.php?r=gii
+---
+2012/12/13 12:44:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "view".' in C:\xampp\htdocs\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(271): CController->missingAction('view')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(283): CController->run('view')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tblUser/view')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/fgmenu/index.php?r=tblUser/view
+---
+2012/12/13 13:14:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/tblUser
+---
+2012/12/13 13:16:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/tblUser
+---
+2012/12/13 13:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/tblUser
+---
+2012/12/13 13:16:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/tblUser
+---
+2012/12/13 13:21:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/tblUser
+---
+2012/12/13 13:22:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/eyuiformeditordb
+---
+2012/12/13 13:22:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/eyuiformeditordb
+---
+2012/12/13 13:30:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:30:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:30:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:30:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:30:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:30:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 13:31:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:40:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/13 15:50:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/eyuiformeditordb
+---
+2012/12/13 16:21:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('1')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/1
+HTTP_REFERER=http://localhost/fgmenu/tblUser
+---
+2012/12/14 01:21:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:23:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 01:24:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:09:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:09:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:09:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:10:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnView".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnView
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:10:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:10:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
+2012/12/14 04:10:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tbl-user/returnForm".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('tbl-user/return...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\fgmenu\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fgmenu/tbl-user/returnForm
+HTTP_REFERER=http://localhost/fgmenu/tbluser
+---
